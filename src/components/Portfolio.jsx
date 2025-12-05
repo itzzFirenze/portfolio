@@ -8,8 +8,8 @@ const Portfolio = () => {
 
    const personalInfo = {
       name: "Joel Antony",
-      role: "Full Stack Engineer",
-      bio: "I build accessible, pixel-perfect, and performant web experiences. Currently focused on simplified UX and minimal design systems.",
+      role: "MCA Student",
+      bio: "MCA student with experience in MERN, Django, and PHP. I build responsive web apps, have worked with Xmigrate, and hold certifications in cybersecurity, AI, and system administration. Always learning.",
       email: "joelantony2107@gmail.com",
       socials: {
          github: "https://github.com/itzzFirenze",
